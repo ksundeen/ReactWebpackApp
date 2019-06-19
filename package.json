@@ -1,0 +1,12 @@
+{
+  "name": "ReactWebpackApp",
+  "version": "1.0.0",
+  "description": "Testing react from scratch with webpack",
+  "main": "index.js",
+  "repository": "https://github.com/ksundeen/ReactWebpackApp.git",
+  "author": "Kim Sundeen <kim.h.sundeen@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "2.6.1"
+  }
+}
